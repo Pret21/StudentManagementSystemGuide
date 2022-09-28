@@ -1,7 +1,7 @@
 # SCHOOL MANAGEMENT SYSTEM
 ## Using Spring Boot 
 
-Main target of this system is to Enter the Students , Teachers to their Classes and Assign Teachers to their subjects. MySQL Auto Generated Database is Used with the name of "kje".
+Main target of this system is to Enter the Students , Teachers to their Classes and Assign Teachers to their subjects. MySQL Auto Generated Database is Used with the name of "sms".
 
 ![image](https://user-images.githubusercontent.com/79799727/156437024-aa0af37a-05f5-42a2-ac64-b8fb178e3352.png)
 
@@ -28,7 +28,7 @@ CREATE | READ | UPDATE | DELETE
 # In Screen Snaps
 
 ## Database
-
+http://localhost/phpmyadmin/index.php?route=/database/structure&db=sms
 
 ## Dashboard
 http://localhost:8080
