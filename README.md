@@ -28,7 +28,7 @@ CREATE | READ | UPDATE | DELETE
 # In Screen Snaps
 
 ## Database
-![image](http://localhost/phpmyadmin/index.php?route=/database/structure&db=sms.png)
+![image](http://localhost/phpmyadmin/index.php?route=/database/structure&db=sms)
 
 ## Dashboard
 (http://localhost:8080)
