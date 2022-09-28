@@ -28,10 +28,10 @@ CREATE | READ | UPDATE | DELETE
 # In Screen Snaps
 
 ## Database
-http://localhost:8080
+
 
 ## Dashboard
-![image](https://user-images.githubusercontent.com/79799727/156439153-518da837-ab67-47c6-8b12-b5fa3e9dd35a.png)
+http://localhost:8080
 
 
 
