@@ -39,4 +39,7 @@ http://localhost:8080
 ### What is Add attribute?
 Its purpose is to add an attribute to the models defined in the controller class, So that it can be identified globally. 
 
+### What is set attribute?
+The setAttribute() method is used to set or add an attribute to a particular element and provides a value to it.
+
 
