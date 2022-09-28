@@ -1,11 +1,12 @@
-# SCHOOL MANAGEMENT SYSTEM
+[# STUDENT MANAGEMENT SYSTEM GUIDE
 ## Using Spring Boot 
 
-Main target of this system is to Enter the Students , Teachers to their Classes and Assign Teachers to their subjects. MySQL Auto Generated Database is Used with the name of "kje".
+Main target of this system is to Enter the Students , Teachers to their Classes and Assign Teachers to their subjects. MySQL Auto Generated Database is Used with the name of "sms".
 
-![image](https://user-images.githubusercontent.com/79799727/156437024-aa0af37a-05f5-42a2-ac64-b8fb178e3352.png)
+![cloud-based-school](https://user-images.githubusercontent.com/92934308/192834206-753eece3-7dc8-409c-a670-4d76b19141b0.png)
 
-# Video : https://youtu.be/IV6xY3zvGsg
+
+
 
 ## Dpendencies Used
 - [x] ThymeLeaf
@@ -27,10 +28,12 @@ CREATE | READ | UPDATE | DELETE
 # In Screen Snaps
 
 ## Database
-![image](https://user-images.githubusercontent.com/79799727/156439250-c6fe193b-6b87-4955-af6f-f14abe153f83.png)
+![Screenshot (15)](https://user-images.githubusercontent.com/92934308/192834299-05749a52-7379-4cee-be16-6bf1df726759.png)
+
 
 ## Dashboard
-![image](https://user-images.githubusercontent.com/79799727/156439153-518da837-ab67-47c6-8b12-b5fa3e9dd35a.png)
+![Screenshot (14)](https://user-images.githubusercontent.com/92934308/192834282-ae6c51af-282c-4245-8e43-b3b2722e9fe5.png)
+
 
 
 
