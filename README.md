@@ -28,7 +28,7 @@ CREATE | READ | UPDATE | DELETE
 # In Screen Snaps
 
 ## Database
-![image](https://user-images.githubusercontent.com/79799727/156439250-c6fe193b-6b87-4955-af6f-f14abe153f83.png)
+http://localhost:8080/
 
 ## Dashboard
 ![image](https://user-images.githubusercontent.com/79799727/156439153-518da837-ab67-47c6-8b12-b5fa3e9dd35a.png)
