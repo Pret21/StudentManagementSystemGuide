@@ -28,10 +28,11 @@ CREATE | READ | UPDATE | DELETE
 # In Screen Snaps
 
 ## Database
-![image](http://localhost/phpmyadmin/index.php?route=/database/structure&db=sms)
+![Screenshot (15)](https://user-images.githubusercontent.com/92934308/192826482-e657509d-2932-45bf-9a59-a006f053e982.png)
+
 
 ## Dashboard
-(http://localhost:8080)
+![Screenshot (14)](https://user-images.githubusercontent.com/92934308/192826321-06c236ca-f837-4c98-9e86-7c6fd84046f1.png)
 
 
 
