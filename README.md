@@ -1,4 +1,4 @@
-[# STUDENT MANAGEMENT SYSTEM GUIDE
+## STUDENT MANAGEMENT SYSTEM GUIDE
 ## Using Spring Boot 
 
 Main target of this system is to Enter the Students , Teachers to their Classes and Assign Teachers to their subjects. MySQL Auto Generated Database is Used with the name of "sms".
