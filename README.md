@@ -1,4 +1,4 @@
-# SCHOOL MANAGEMENT SYSTEM Guide
+# SCHOOL MANAGEMENT SYSTEM GUIDE
 ## Using Spring Boot 
 
 Main target of this system is to Enter the Students , Teachers to their Classes and Assign Teachers to their subjects. MySQL Auto Generated Database is Used with the name of "sms".
@@ -28,7 +28,7 @@ CREATE | READ | UPDATE | DELETE
 # In Screen Snaps
 
 ## Database
-http://localhost/phpmyadmin/index.php?route=/database/structure&db=sms
+![image](http://localhost/phpmyadmin/index.php?route=/database/structure&db=sms)
 
 ## Dashboard
 http://localhost:8080
