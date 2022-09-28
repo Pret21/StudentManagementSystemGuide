@@ -3,7 +3,7 @@
 
 Main target of this system is to Enter the Students , Teachers to their Classes and Assign Teachers to their subjects. MySQL Auto Generated Database is Used with the name of "sms".
 
-![image](https://user-images.githubusercontent.com/79799727/156437024-aa0af37a-05f5-42a2-ac64-b8fb178e3352.png)
+https://www.academyfront.com/images/blog/AF_web.png
 
 
 
